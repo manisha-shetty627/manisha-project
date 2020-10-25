@@ -1,0 +1,221 @@
+
+---Downloaded files---
+The import files for: Full demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://learning.talesofpursuit.com
+Data file = /var/www/learning.talesofpursuit.com/public_html/wp-content/themes/samatex//demo/all.xml
+Widget file = /var/www/learning.talesofpursuit.com/public_html/wp-content/themes/samatex//demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+samatex_enovathemes -> /var/www/learning.talesofpursuit.com/public_html/wp-content/themes/samatex//demo/options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Advertisement
+[WARNING] Failed to import project-tag Aerial filming
+[WARNING] Failed to import project-tag Animation
+[WARNING] Failed to import project-tag Audio
+[WARNING] Failed to import project-category Branding
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-tag Film
+[WARNING] Failed to import project-category Full
+[WARNING] Failed to import project-category Industrial
+[WARNING] Failed to import project-tag Photo
+[WARNING] Failed to import project-tag Retail
+[WARNING] Failed to import project-category Social Media
+[WARNING] Failed to import project-category Technology
+[WARNING] Failed to import project-tag Video
+[WARNING] Failed to import project-tag Web
+[WARNING] Failed to import "Footer 1": Invalid post type footer
+[WARNING] Failed to import "Desktop": Invalid post type header
+[WARNING] Failed to import "Footer light": Invalid post type footer
+[WARNING] Failed to import "Footer color": Invalid post type footer
+[WARNING] Failed to import "Footer simple": Invalid post type footer
+[WARNING] Failed to import "Footer sticky": Invalid post type footer
+[WARNING] Failed to import "Footer blocks": Invalid post type footer
+[WARNING] Failed to import "Elements": Invalid post type megamenu
+[WARNING] Failed to import "Mobile": Invalid post type header
+[WARNING] Failed to import "Modal": Invalid post type header
+[WARNING] Failed to import "Sidebar": Invalid post type header
+[WARNING] Failed to import "Popup banner": Invalid post type header
+[WARNING] Failed to import "Desktop grid": Invalid post type header
+[WARNING] Failed to import "Desktop 2": Invalid post type header
+[WARNING] Failed to import "Mobile 2": Invalid post type header
+[WARNING] Failed to import "Desktop 3": Invalid post type header
+[WARNING] Failed to import "Mobile 3": Invalid post type header
+[WARNING] Failed to import "Desktop 4": Invalid post type header
+[WARNING] Failed to import "Desktop 5": Invalid post type header
+[WARNING] Failed to import "Desktop 6": Invalid post type header
+[WARNING] Failed to import "Desktop 7": Invalid post type header
+[WARNING] Failed to import "Mobile 4": Invalid post type header
+[WARNING] Failed to import "Desktop 8": Invalid post type header
+[WARNING] Failed to import "Desktop 9": Invalid post type header
+[WARNING] Failed to import "Desktop 10": Invalid post type header
+[WARNING] Failed to import "Desktop boxed": Invalid post type header
+[WARNING] Failed to import "Desktop transparent": Invalid post type header
+[WARNING] Failed to import "Megamenu tabs": Invalid post type megamenu
+[WARNING] Failed to import "Megamenu tabs center": Invalid post type megamenu
+[WARNING] Failed to import "Elements sidebar": Invalid post type megamenu
+[WARNING] Failed to import "Megamenu tabs sidebar": Invalid post type megamenu
+
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Imported
+instagram - Instagram - Site does not support widget
+Categories - Categories - Imported
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+Tag Cloud - Tags - Imported
+facebook - Find us on Facebook - Site does not support widget
+
+Blog single post page widgets : 
+
+Search - No Title - Imported
+instagram - Instagram - Site does not support widget
+Categories - Categories - Imported
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+et-recent-posts - Recent posts - Site does not support widget
+facebook - Find us on Facebook - Site does not support widget
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!

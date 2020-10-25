@@ -1,0 +1,237 @@
+
+---Downloaded files---
+The import files for: Full demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://learning.talesofpursuit.com
+Data file = /var/www/learning.talesofpursuit.com/public_html/wp-content/themes/samatex//demo/all.xml
+Widget file = /var/www/learning.talesofpursuit.com/public_html/wp-content/themes/samatex//demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+samatex_enovathemes -> /var/www/learning.talesofpursuit.com/public_html/wp-content/themes/samatex//demo/options.json 
+
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+Tag Cloud - Tags - Widget already exists
+facebook - Find us on Facebook - Site does not support widget
+
+Blog single post page widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+et-recent-posts - Recent posts - Site does not support widget
+facebook - Find us on Facebook - Site does not support widget
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+Tag Cloud - Tags - Widget already exists
+facebook - Find us on Facebook - Site does not support widget
+
+Blog single post page widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+et-recent-posts - Recent posts - Site does not support widget
+facebook - Find us on Facebook - Site does not support widget
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+Tag Cloud - Tags - Widget already exists
+facebook - Find us on Facebook - Site does not support widget
+
+Blog single post page widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+et-recent-posts - Recent posts - Site does not support widget
+facebook - Find us on Facebook - Site does not support widget
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+Tag Cloud - Tags - Widget already exists
+facebook - Find us on Facebook - Site does not support widget
+
+Blog single post page widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+et-recent-posts - Recent posts - Site does not support widget
+facebook - Find us on Facebook - Site does not support widget
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+Tag Cloud - Tags - Widget already exists
+facebook - Find us on Facebook - Site does not support widget
+
+Blog single post page widgets : 
+
+Search - No Title - Widget already exists
+instagram - Instagram - Site does not support widget
+Categories - Categories - Widget already exists
+mailchimp - Subscribe - Site does not support widget
+flickr - Photos from flickr - Site does not support widget
+et-recent-posts - Recent posts - Site does not support widget
+facebook - Find us on Facebook - Site does not support widget
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+yith-woocompare-widget - No Title - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
